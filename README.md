@@ -4,7 +4,7 @@ demo-producer-kafka es una cápsula de conocimiento para entender cómo se confi
 
 ## CONFIGURACIÓN PREVIA
 
-Para iniciar la aplicación, debes ir a la carpeta /docker-compose y ejecutar el siguiente comando. En caso de que no se haya ejecutado antes, se requiere previamente haber instalado Docker (se recomienda Rancher Desktop por la licencia):
+Para iniciar la aplicación, debes ir a la carpeta /docker-compose y ejecutar el siguiente comando, en caso de que no se haya ejecutado antes. Se requiere previamente haber instalado Docker (se recomienda Rancher Desktop por la licencia):
 
 ```
 docker-compose up -d
